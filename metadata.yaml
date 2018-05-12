@@ -1,0 +1,28 @@
+_repo: Yrj-n--Kailanen-ja-h-nen-poikansaWermlannin-ja-Taalain-mets-seuduilla_16652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schröder, Gustaf
+    alias: Schroder, Gustaf
+    birthdate: 1824
+    deathdate: 1912
+    gutenberg_agent_id: '6847'
+    url: http://www.gutenberg.org/2009/agents/6847
+description: ''
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16652'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: "Yrjänä Kailanen ja hänen poikansa\r\nKuvauksia Ruotsin suomalaisten elämästä\
+  \ ja eränkäynnistä Wermlannin ja Taalain metsäseuduilla"
+url: http://www.gutenberg.org/ebooks/16652
